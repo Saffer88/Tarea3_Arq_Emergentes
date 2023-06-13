@@ -14,7 +14,7 @@ Contiene el modelo de base de datos en conjunto con sus relaciones y llaves prim
 
 Por otro lado se considero que para insertar datos en la tabla "company" el company_api_key debe ser el mismo que la contraseña del administrador, sino la inserción no se ejecutará, asimismo dentro de la petición de tipo json debe ir de la siguiente manera:
 
-![Texto alternativo](company_insert.png)
+![Texto alternativo](./img/company_insert.png)
 
 Cabe destacar que para la inserción del sensor_data ocurre lo mismo
 
